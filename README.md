@@ -4,10 +4,10 @@ CRUD com ASP.NET Core, Entity Framework e SQL server abordando o tema Porto com 
 # * Pronto *
 
 - [ ]  Views
-    - [x]  Cadastrar livro.
-    - [x]  Atualizar livro.
-    - [x]  Deletar livro.
-    - [x]  Lista de livros.
+    - [x]  Cadastrar Container e BL.
+    - [x]  Atualizar Container e BL.
+    - [x]  Deletar Container e BL.
+    - [x]  Lista de Container e BL.
 
 # Pacotes utilizados
 
