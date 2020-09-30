@@ -1,7 +1,7 @@
 # TP02SWII
 CRUD com ASP.NET Core, Entity Framework e SQL server abordando o tema Porto com BLs e Containers
 
-# 🚧  Em construção 🚧
+# * Pronto *
 
 - [ ]  Views
     - [x]  Cadastrar livro.
